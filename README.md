@@ -24,5 +24,4 @@ The participant dataset (`Understanding Somatic Symptoms.csv`) is **not** includ
 
 ## Author
 
-Sancho Xavier – School of Public Health, University of São Paulo (USP)
 ORCID: [0000-0001-9493-4098](https://orcid.org/0000-0001-9493-4098)
