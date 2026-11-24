@@ -1,10 +1,7 @@
 # =============================================================================
 # Understanding Somatic Symptoms in Relation to Depression, Anxiety, and Stress
 # Among Medical Students
-#
-# Author : Sancho Pedro Xavier (School of Public Health, University of São Paulo)
-# ORCID  : 0000-0001-9493-4098
-#
+
 # Description:
 #   Full analysis pipeline for the study. The script
 #     1. prepares the data and builds the SSS-8 and DASS scores,
